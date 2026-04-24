@@ -86,6 +86,7 @@ A curated list of Istio Service Mesh related tools, frameworks and articles.
 
 ### Community Repositories
 
+- [KubeStellar Console](https://github.com/kubestellar/console) - Open source AI-powered multi-cluster Kubernetes dashboard with built-in Istio service mesh integration for observability across hybrid edge and cloud. CNCF Sandbox project.
 - https://github.com/GoogleCloudPlatform/istio-samples
 - https://github.com/previousdeveloper/istio-simple-concepts
 - https://github.com/mstrYoda/istio-examples
